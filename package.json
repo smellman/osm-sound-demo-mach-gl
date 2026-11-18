@@ -1,0 +1,22 @@
+{
+  "name": "osm-sound-demo-mach-gl",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "packageManager": "pnpm@12.16.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.2"
+  },
+  "devDependencies": {
+    "sass": "^1.107.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5"
+  }
+}
